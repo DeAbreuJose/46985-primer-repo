@@ -1,1 +1,17 @@
 INIT : empezar el repositorio
+
+status : ver el estatus de los commit y ver en que branch estas
+
+log --oneline : para ver todas las branches
+
+END : shift+ZZ (lo elimina)
+
+/*************************************/
+
+AGREGAR UN COMMIT =
+
+add .
+
+commit -m ""
+
+/**********************************/
